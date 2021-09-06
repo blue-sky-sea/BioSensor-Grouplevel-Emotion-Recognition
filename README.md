@@ -4,8 +4,8 @@
 
 ========================================================================
 
-author:mizukiyuta <br />   
-department:tokyo metropolitan university system design
+<font color="red"> author: <font color="red">mizukiyuta <br />   
+<font color="blue">department: <font color="red"> tokyo metropolitan university system design
 
 ========================================================================
 
