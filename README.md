@@ -22,25 +22,24 @@ Use bioSensors for group-level emotion recognition <br />
 ## Used device
 ### [Beacon]
 for detecting people in the same room <br />  
-![image](https://user-images.githubusercontent.com/26008298/132282742-d21cea84-a607-4038-b9f2-69ddf8d408b0.png)
+<img src="https://user-images.githubusercontent.com/26008298/132282742-d21cea84-a607-4038-b9f2-69ddf8d408b0.png" width="160">
 
 ### [Brainwave Mobile 2]
 brain wave(EEG)->Attention,Mediation <br />  
-![image](https://user-images.githubusercontent.com/26008298/132282807-9775c223-0d4b-48eb-9d75-a308ffea37d1.png)
-
+<img src="https://user-images.githubusercontent.com/26008298/132282807-9775c223-0d4b-48eb-9d75-a308ffea37d1.png" width="160">
 ### [Polar H10]
 heart rate(LF/HF),Accelerometer <br />  
-<img src="https://user-images.githubusercontent.com/26008298/132282872-a2a6b140-0707-4bd1-9bda-5e4b4e778d64.png" width="140">
+<img src="https://user-images.githubusercontent.com/26008298/132282872-a2a6b140-0707-4bd1-9bda-5e4b4e778d64.png" width="150">
 
 ### [Sensor]
 BME280 sensor based on raspberry pi4,to get environment data(temperature,humidity,pressure) <br />
-<img src="https://user-images.githubusercontent.com/26008298/132282977-fd54ee04-b335-455b-bf5e-32b5e313fb84.png" width="180">
+<img src="https://user-images.githubusercontent.com/26008298/132282977-fd54ee04-b335-455b-bf5e-32b5e313fb84.png" width="170">
 ![image](https://user-images.githubusercontent.com/26008298/132282884-ba2faa0c-b897-4cab-b360-0220d821504e.png)
 
 ### [VR device]
 for emotion Arousal <br />
 oculus quest2 <br />
-<img src="https://user-images.githubusercontent.com/26008298/132283403-9d1f2ed8-8238-4ca3-aedc-af52e3fc1ef1.png" width="180">
+<img src="https://user-images.githubusercontent.com/26008298/132283403-9d1f2ed8-8238-4ca3-aedc-af52e3fc1ef1.png" width="160">
 
 ## Code
 [polar H10]use python‘s bleak library to detect polar h10，get its Mac address,and record ECG or Accelerometer. <br />  
