@@ -30,7 +30,7 @@ brain wave(EEG)->Attention,Mediation <br />
 
 ### [Polar H10]
 heart rate(LF/HF),Accelerometer <br />  
-<img src="https://user-images.githubusercontent.com/26008298/132282872-a2a6b140-0707-4bd1-9bda-5e4b4e778d64.png" width="180">
+<img src="https://user-images.githubusercontent.com/26008298/132282872-a2a6b140-0707-4bd1-9bda-5e4b4e778d64.png" width="140">
 
 ### [Sensor]
 BME280 sensor based on raspberry pi4,to get environment data(temperature,humidity,pressure) <br />
