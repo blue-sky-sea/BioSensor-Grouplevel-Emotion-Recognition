@@ -13,8 +13,8 @@
 | department | Tokyo Metropolitan University System Design |  <br />
 
 ========================================================================
-![image](https://user-images.githubusercontent.com/26008298/132282518-24095b5c-eae4-4fde-ab66-089d8a446ec4.png)
 
+<img src="https://user-images.githubusercontent.com/26008298/132282518-24095b5c-eae4-4fde-ab66-089d8a446ec4.png" width="180">
 
 ## Introduction 
 Use bioSensors for group-level emotion recognition <br />
