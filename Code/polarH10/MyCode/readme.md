@@ -5,7 +5,7 @@ based on heartpy lib.read data.csv(have ECG data),and can calculate to other kin
 
 # visualizations.py
 
-![image](https://user-images.githubusercontent.com/26008298/133017186-29a6da61-a7bf-42fa-ae39-6882bd772e3b.png)
+![image](https://user-images.githubusercontent.com/26008298/133017426-0fa663fa-caf7-43e1-9571-218113fc665b.png)
 
 # pnn50.py
 
