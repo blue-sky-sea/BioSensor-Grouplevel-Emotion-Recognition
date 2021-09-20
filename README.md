@@ -24,7 +24,7 @@ Use bioSensors for group-level emotion recognition <br />
 for detecting people in the same room <br />  
 <img src="https://user-images.githubusercontent.com/26008298/132282742-d21cea84-a607-4038-b9f2-69ddf8d408b0.png" width="160">
 
-### [Brainwave Mobile 2]
+### [Muse Mins Monitor]
 brain wave(EEG)->Attention,Mediation <br />  
 <img src="https://user-images.githubusercontent.com/26008298/132282807-9775c223-0d4b-48eb-9d75-a308ffea37d1.png" width="160">
 ### [Polar H10]
