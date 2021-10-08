@@ -46,3 +46,5 @@ oculus quest2 <br />
 
 [PI_SENSOR]BME280 sensor based on raspberry pi4,to get environment data(temperature,humidity,pressure). <br />  
 
+[ECG_EEG_PROCESS]EEG and ECG data process program. ECG->lfhf,pnn50... EEG->Attention,Meditation...<br />
+process to 60s data,one second one row<br /> 
