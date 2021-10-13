@@ -48,3 +48,22 @@ oculus quest2 <br />
 
 [ECG_EEG_PROCESS]EEG and ECG data process program. ECG->lfhf,pnn50... EEG->Attention,Meditation...<br />
 process to 60s data,one second one row<br /> 
+
+========================================================================
+## Data Collection
+Based on VR virtual world to arose people's emotion<br /> 
+meanwhile,sensors will collect collaborators' bio-data and save to csv 
+
+## Data Processing
+Pre-process data,delete no-use parameter and create new parameter<br /> 
+for example:<br /> 
+ECG->LFHF,pnn59...
+EEG->attetion,meditation...
+    
+## Machine Learning
+SVM
+KNN
+RNN
+LSTM
+...
+========================================================================
