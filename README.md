@@ -25,10 +25,11 @@ for detecting people in the same room <br />
 <img src="https://user-images.githubusercontent.com/26008298/132282742-d21cea84-a607-4038-b9f2-69ddf8d408b0.png" width="160">
 
 ### [Muse Mind Monitor]
+Accelerometer ,Gyrometer
 brain wave(EEG)->Attention,Mediation <br />  
 <img src="https://user-images.githubusercontent.com/26008298/132282807-9775c223-0d4b-48eb-9d75-a308ffea37d1.png" width="160">
 ### [Polar H10]
-heart rate(LF/HF),Accelerometer <br />  
+heart rate(LF/HF)<br />  
 <img src="https://user-images.githubusercontent.com/26008298/132282872-a2a6b140-0707-4bd1-9bda-5e4b4e778d64.png" width="150">
 
 ### [Sensor]
@@ -63,7 +64,7 @@ EEG->attetion,meditation...
 ## Machine Learning
 SVM
 KNN
-RNN
+CNN-SVM
 LSTM
 ...<br /> 
 
