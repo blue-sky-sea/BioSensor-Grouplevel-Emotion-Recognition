@@ -60,7 +60,11 @@ Pre-process data,delete no-use parameter and create new parameter<br />
 for example:<br /> 
 ECG->LFHF,pnn59...
 EEG->attetion,meditation...
-    
+   
+## Group-level utterance atmosphere
+1.talk on a certain topic  
+2.collaborate with each other in VR  
+
 ## Machine Learning
 SVM
 KNN
