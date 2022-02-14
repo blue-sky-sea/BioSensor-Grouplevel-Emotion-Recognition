@@ -66,7 +66,7 @@ EEG->attetion,meditation...
 2.collaborate with each other in VR  
 
 ## Futrure
-1.use gaze in VR to recognize interest and attention of dialogue with avater/players
+1.use gaze in VR to recognize interest and attention of dialogue with avater/players  
 2.consider generlizing model for individual differences
 
 ## Machine Learning
